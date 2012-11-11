@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+    <Say voice="woman">Hi, this is Sporty checking in for today. How did you feel after this morning's run?</Say>
+    <Record maxLength="20" />
+</Response>
